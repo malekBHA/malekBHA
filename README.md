@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D63447&height=200&section=header&text=Malek%20Ben%20Haj%20Amor&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D63447&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;Kubernetes+%7C+Azure+%7C+CI%2FCD+%7C+DevSecOps;Designing+scalable%2C+resilient+infrastructures;Open+to+new+challenges+%F0%9F%8C%8D)](https://git.io/typing-svg)
@@ -158,7 +156,7 @@ passions:
 | 🐙 GitHub | [github.com/malekBHA](https://github.com/malekBHA) |
 | 🎓 Microsoft Learn | [learn.microsoft.com/en-us/users/malekbenhajamor-7315](https://learn.microsoft.com/en-us/users/malekbenhajamor-7315/) |
 | 📧 Email | [Malek.belhadjamor@gmail.com](mailto:Malek.belhadjamor@gmail.com) |
-| 📍 Location | Ariana, Tunisia |
+
 
 </div>
 
