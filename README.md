@@ -29,7 +29,6 @@ languages: [Arabic (Native), French (B2), English (B2)]
 passions:
   - Designing scalable & resilient cloud infrastructures
   - Kubernetes orchestration & DevSecOps pipelines
-  - Generative AI applied to infrastructure
   - Automation & IaC best practices
 ```
 
@@ -134,7 +133,7 @@ passions:
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
 | Sep 2025 – Jan 2026 | Freelance Cloud & DevOps Engineer | **AionTime** | ERP on K8s · DevSecOps · Blue/Green · Hybrid Cloud |
-| Jun 2025 – Aug 2025 | Cloud & DevOps Intern | **NLS** | Microservices · Observability · IaC · cert-manager |
+| Jun 2025 – Aug 2025 | Cloud & DevOps Intern | **AionTime** | Microservices · Observability · IaC · cert-manager |
 | Sep 2024 – Jun 2025 | Academic Project – PFA | **ESPRIT** | IaaS with OpenStack · Kubernetes · Hybrid Cloud |
 | Jan 2023 – Jul 2023 | Full Stack Developer Intern | **StartNow** | ReactJS · Redux · Laravel · JWT |
 
